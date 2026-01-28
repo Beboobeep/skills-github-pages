@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Control Systems Notes: Welcome to my blog
 ---
 
